@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/me-beta-react-js/precache-manifest.9107ac129ba0c63c03740bb0d5914099.js"
+  "/bszymanski/precache-manifest.1142e8e0bfa3898e7f58fa96cdde17a5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/me-beta-react-js/index.html", {
+workbox.routing.registerNavigationRoute("/bszymanski/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
