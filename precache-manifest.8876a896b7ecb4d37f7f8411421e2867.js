@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "5a77b0550019feea16f9",
-    "url": "/bszymanski/static/css/main.d3b01943.chunk.css"
+    "revision": "825890383347f2d09c15",
+    "url": "/bszymanski/static/css/main.f2087383.chunk.css"
   },
   {
-    "revision": "5a77b0550019feea16f9",
+    "revision": "825890383347f2d09c15",
     "url": "/bszymanski/static/js/main.f93efd52.chunk.js"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/bszymanski/static/media/mysql-ar21.b04e488e.svg"
   },
   {
-    "revision": "cf434d0a07975e8da55f4ac5d58842a8",
+    "revision": "2f1591d501e20553e22e9c5c8b3ca918",
     "url": "/bszymanski/index.html"
   }
 ];
